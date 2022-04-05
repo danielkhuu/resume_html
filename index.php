@@ -1,1 +1,1 @@
-<?php include_once('resume.html'); ?>
+<?php readfile('resume.html'); ?>
